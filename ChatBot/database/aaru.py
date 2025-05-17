@@ -37,7 +37,7 @@ class ChatGptEs:
         }
 
         response = self.scraper.post(self.api_endpoint, data=payload).json()
-        return response.get('data', '[ERROR] No response received.')
+        return response.get('data', 'No response received. Support @TheBakChodiDev')
 
 # Initialize ChatGptEs instance
 chatbot_api = ChatGptEs()
