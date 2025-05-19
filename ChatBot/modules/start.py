@@ -113,11 +113,7 @@ I'm here to chat, vibe, and bring some fun to your day.
 ⬤ /start ➥ Start me.  
 ⬤ /ping ➥ Check if I'm online.  
 ⬤ /stats ➥ Get chat stats.  
-⬤ /chatbot ➥ Toggle AI replies (only works in groups). 
-⬤ /ask ➥ Provide me with a query to ask Aaru AI. 💖
-⬤ /kiss ➥ Get a virtual kiss from me. 😘  
-⬤ /hug ➥ Let me wrap you in a warm hug. 🤗 
-⬤ /waifu ➥ Want a cute waifu image? Just drop a tag, and I'll fetch one for you. 💕
+⬤ /chatbot ➥ Toggle AI replies (only works in groups).
 
 Stay sharp, stay awesome. ✨  
 """
